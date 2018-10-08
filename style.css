@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#parent {
+    height: 1000px;  
+}
+
+#child {
+    position: fixed;
+    height: 620px;
+    width: 200px;
+    border-right: 1px solid #ccc;
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+    top: 0;
+}
+
+#child h3{
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    text-align: left
+}
+
+ul a{
+    text-decoration: none;
+    color: brown;
+    margin: 10px;
+}
+
+ul li:hover{
+    border: 1px solid #ccc;
+    background: white;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+}
+
+#ul1 {
+    margin-top: 50px;
+}
+
+hr {
+    width: 80%;
+}
+
+#child footer {
+    margin-top: 92px;
+}
+
+#child2 {
+    top: 0;
+    margin-left: 250px;
+    margin-right: 20px;
+}
+
+#child2 p {
+    line-height: 1.9em;
+}
+
+#child2 h3 {
+    color: teal;
+}
+
+#child2 h3 small {
+    color: cadetblue;
+    font-size: 12px;
+}
+
+#child2 h3:first-child {
+    margin-top: 60px;
+}
+
+section {
+    padding: 20px;
+    background-color: crimson;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    color: white;
+    border-radius: 10px;
+}
+
+#source {
+    float: right;
+    margin-right: 20px;
+}
+
+#pagination {
+    text-align: center;
+    margin-top: 50px;
+    border: 0px;
+    height: 5px;
+}
+
+#pagination a {
+    margin: 10px;
+}
+
