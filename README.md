@@ -1,5 +1,7 @@
 # Blog Template
 
+https://usmanialiq.github.io/blog_template/
+
 This is simple Blog Template developed using Pure CSS3, no CSS frameworks have been used.
 
 Feel free to use it, automate it with any back-end tooling and get going
